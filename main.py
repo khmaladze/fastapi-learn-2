@@ -6,17 +6,17 @@ app = FastAPI()
 
 students = {
     1:{
-        "name":"john",
+        "name":"person 1",
         "age": 17,
         "year":"Year 12"
     },
     2:{
-        "name":"john 2",
+        "name":"person 2",
         "age": 18,
         "year":"Year 12"
     },
     3:{
-        "name":"john 3",
+        "name":"person 3",
         "age": 19,
         "year":"Year 12"
     }
